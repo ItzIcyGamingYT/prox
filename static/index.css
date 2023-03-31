@@ -49,3 +49,8 @@ form input {
     border-radius: 30px;
     color: #FFF;
 }
+.text  {
+    font-size: 75px;
+    font-family: "Roboto";
+    color: #FFF;
+}
